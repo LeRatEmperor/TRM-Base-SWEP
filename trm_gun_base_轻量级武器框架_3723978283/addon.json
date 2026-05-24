@@ -1,0 +1,13 @@
+{
+  "title": "TRM Gun Base —— 轻量级武器框架",
+  "type": "weapon",
+  "tags": [
+    "roleplay",
+    "realism",
+    "fun"
+  ],
+  "ignore": [
+    ".vscode",
+    ".txt"
+  ]
+}
