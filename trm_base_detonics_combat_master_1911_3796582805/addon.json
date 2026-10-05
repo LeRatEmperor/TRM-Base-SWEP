@@ -1,0 +1,29 @@
+{
+  "title": "[TRM Base] Detonics Combat Master 1911",
+  "type": "weapon",
+  "tags": [
+    "fun",
+    "roleplay",
+    "water"
+  ],
+  "ignore": [
+    ".vscode",
+    ".txt",
+    "shaders/*",
+    "lua/unused/shaders/*",
+    "gluarc.json",
+    ".gluarc.json",
+    ".emmyrc.json",
+    ".git",
+    "emmyrc.json",
+    ".code-workspace",
+    "the hud.code-workspace",
+    "*.code-workspace",
+    ".*zip",
+    "*.zip",
+    "*.txt",
+    "origin/*",
+    "*.py",
+    "*.csv"
+  ]
+}

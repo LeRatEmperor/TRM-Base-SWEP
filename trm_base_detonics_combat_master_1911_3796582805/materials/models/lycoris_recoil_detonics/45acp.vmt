@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lycoris_recoil_detonics/45acp_d"
+	"$bumpmap" "models/lycoris_recoil_detonics/45acp_n"
+	"$color2" "[0.35 0.35 0.35]"
+	"$nocull" "1"
+   	"$halflambert" "1"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	//"$phongboost" "1"
+	"$phongboost" "3"
+	//"$phongexponent" "30"
+	"$phongfresnelranges"	"[2 4 6]"
+	"$phongexponenttexture" "models/lycoris_recoil_detonics/45acp_e"
+	
+	"$envmap" 					 "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.2 0.2 0.2]"		
+	//"$phongtint" 			"[1 1 1]"			
+	"$PhongAlbedoTint" "1"		
+	
+	"$ambientocclusion" "1"
+	
+	"$rimlight"              "1"
+	"$rimlightexponent"      "2"
+	"$rimlightboost"         ".2"
+}
